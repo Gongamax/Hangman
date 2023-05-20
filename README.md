@@ -1,6 +1,6 @@
 # Hangman Game
 
-![Hangman](hangman_image.png)
+![Hangman](hangman-image.png)
 
 ## Description
 
